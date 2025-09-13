@@ -14,3 +14,7 @@ Exemplo prático: em um e-commerce podemos ter diferentes formas de aplicar desc
 duas formas, são elas: BlackFridayDiscount que gera um desconto de 20% e BirthdayDiscount que gera um desconto de 10%.
 
 ![Strategy.png](Strategy.png)
+
+## Nível de dor de cabeça (Strategy)
+
+<span style="font-size:2rem">🤯🤯🙂🙂🙂</span>  (2/5)
