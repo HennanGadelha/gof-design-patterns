@@ -15,7 +15,7 @@ Aqui registro anotações, exemplos de código e implementações práticas em *
 
 
 ### Criacionais
-- [Factory-Method]([https://github.com/HennanGadelha/gof-design-patterns/tree/main/Comportamentais/Observer](https://github.com/HennanGadelha/gof-design-patterns/tree/main/Criacionais/Factory-Method))
+- [Factory Method](https://github.com/HennanGadelha/gof-design-patterns/tree/main/Criacionais/Factory-Method)
 
 
 ### Estruturais
