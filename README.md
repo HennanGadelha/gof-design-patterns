@@ -13,7 +13,11 @@ Aqui registro anotações, exemplos de código e implementações práticas em *
 - [Strategy](https://github.com/HennanGadelha/gof-design-patterns/tree/main/Comportamentais/Strategy)
 - [Template Method](https://github.com/HennanGadelha/gof-design-patterns/tree/main/Comportamentais/TemplateMethod)
 
+
+### Criacionais
+- [Factory-Method]([https://github.com/HennanGadelha/gof-design-patterns/tree/main/Comportamentais/Observer](https://github.com/HennanGadelha/gof-design-patterns/tree/main/Criacionais/Factory-Method))
+
+
 ### Estruturais
 
 
-### Criacionais
